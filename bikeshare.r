@@ -15,7 +15,7 @@ head(chi)
 
 # What is the most common trip from start to end for each city?
 
-common_trip = function(data) {
+frequent_trips = function(data) {
     
     #Creates new Trip.Route variable by concatenating trip start and end locations 
     data$Trip.Route = paste(data$Start.Station, data$End.Station, sep = " + ")
@@ -31,9 +31,9 @@ common_trip = function(data) {
     
     }
 
-common_trip(ny)
-common_trip(wash)
-common_trip(chi)
+frequent_trips(ny)
+frequent_trips(wash)
+frequent_trips(chi)
 
 # The most common trip route in New York is starting in E 7 St & Ave A and ending at Cooper Square & E 7 St
 # The most common trip route in DC is starting at Jefferson & 14th and ending at the same station
