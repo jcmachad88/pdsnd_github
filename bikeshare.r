@@ -1,3 +1,5 @@
+# Analyst Name: Juan Machado
+# Date Reviewed: May 1, 2020
 
 ny = read.csv('new_york_city.csv')
 wash = read.csv('washington.csv')
