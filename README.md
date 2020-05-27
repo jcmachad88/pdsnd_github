@@ -9,7 +9,10 @@ Explore Bikeshare Data
 Explores three questions using R
 
 ### Files used
-new_york_city.csv, washington.csv, chicago.csv
+Bikeshare data provided by [Motivate](https://www.motivateco.com/)
+* new_york_city.csv
+* washington.csv
+* chicago.csv
 
 ### Credits
-n/a
+Thank you to the staff at Udacity for their support.
