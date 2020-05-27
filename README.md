@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Project created reviewed on May 1, 2020
+README created on May 26, 2020
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Explores three questions using R
 
 ### Files used
-Include the files used
+new_york_city.csv, washington.csv, chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+n/a
