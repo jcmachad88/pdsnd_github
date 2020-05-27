@@ -14,5 +14,9 @@ Bikeshare data provided by [Motivate](https://www.motivateco.com/)
 * washington.csv
 * chicago.csv
 
+### Analyst
+Juan Machado
+castanheira.machado@gmail.com
+
 ### Credits
 Thank you to the staff at Udacity for their support.
